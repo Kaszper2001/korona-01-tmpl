@@ -1,2 +1,2 @@
-# projekt_korona_01
+# projekt: korona_01
 HTML, CSS, JS, PHP, SQL
